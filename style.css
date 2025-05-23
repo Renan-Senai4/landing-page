@@ -1,0 +1,99 @@
+
+
+  
+*{
+
+
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+.item{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+body{
+ 
+        background-image: url(./img/green-hill-zone-background-zwgn24ois86lk9re.jpg);
+
+    
+
+
+ 
+img{
+position: relative;
+top: -200px;
+left: 400px;
+width: 400px;
+border-radius: 25%;
+}
+
+.a{
+    background-color: #FFD966;
+   width: 280px;
+   height: 350px;
+   border-radius: 20px;
+   padding: 10px;
+   position: relative;
+   top: 70px;
+   left: 500px;
+}
+
+.cabeçalho{
+
+background:  #FFB84C;
+border-radius: 20px;
+text-align: center;
+}
+}
+.wow{
+position: fixed;
+bottom: 0;
+background-color: #FD8D14;
+width: 100%;
+height: 80px;
+left: 0%;
+   
+}
+h1{
+    text-align: center;
+     font-family: "Jersey 10", sans-serif;
+}
+
+    h3{ font-family: "Jersey 10", sans-serif;
+}
+
+button{
+    width: 60px;
+    height: 40px;
+    
+}
+
+button{
+    width: 100px;
+    padding: 12px;
+    font-size: 16x;
+    color: rgb(255, 255, 255);
+    background-color:#F4B183;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+ 
+}
+
+button:hover {
+    transform: scale(1.1);
+}
+
+button:active {
+    transform: scale (0.95);
+}
+ 
+
+  
